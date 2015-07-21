@@ -1,0 +1,35 @@
+{
+ "concurso": {
+    "numero":"1546",
+    "data":"09\/11\/2013",
+    "cidade":"ARTUR NOGUEIRA-SP",
+    "local":"Caminh\u00e3o da Sorte",
+    "valor_acumulado":"3.197.606,56",
+    "numeros_sorteados":["04","17","38","44","53","60"],
+    "premiacao": {
+       "sena": {
+         "ganhadores":"0",
+         "valor_pago":"0,00"
+       },
+       "quina": {
+         "ganhadores":"100",
+         "valor_pago":"17.358,44"
+       },
+       "quadra": {
+         "ganhadores":"6.673",
+         "valor_pago":"371,61"
+       }
+    },
+    "arrecadacao_total":"29.649.502,00"
+ },
+ "proximo_concurso": {
+    "data":"13\/11\/2013",
+    "valor_estimado":"6.500.000,00"
+ },
+ "concurso_final_zero": {
+    "numero":"1550",
+    "valor_acumulado":"12.911.656,57"
+ },
+ "mega_virada_valor_acumulado":"53.280.715,85"
+}
+
